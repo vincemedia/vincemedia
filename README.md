@@ -22,9 +22,11 @@ Feel free to [contact me](https://vince.media)
 
 ## 🎓 Education
 
-**IBM Full Stack Software Developer** - [*Coursera*](https://coursera.org/share/)  
+**IBM Full Stack Javascript Developer** - [*Coursera*](https://coursera.org/share/)  
 
+**IBM Cloud Application Development Foundations** - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
 2024
+
 
 **Master of Science - Msc., Interaction Design** - *Malmö University*  
 

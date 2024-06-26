@@ -28,11 +28,11 @@ Feel free to [contact me](https://vince.media)
 **Full Stack Javascript Developer** - [*Coursera*](https://coursera.org/share/)  
 **Cloud Application Development Foundations** - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
 
-2010 - 2012
+2011 - 2013
 
 **Master of Science - Msc., Interaction Design** - *Malmö University*  
 
-2010 - 2012
+2010 - 2011
 
 **Master of Science - MA., Communication & Multimedia Design** - *LUCA School of Arts*  
 

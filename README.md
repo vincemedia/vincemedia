@@ -29,12 +29,15 @@ Feel free to [contact me](https://vince.media)
 **Cloud Application Development Foundations** - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
 
 2010 - 2012
+
 **Master of Science - Msc., Interaction Design** - *Malmö University*  
 
 2010 - 2012
+
 **Master of Science - MA., Communication & Multimedia Design** - *LUCA School of Arts*  
 
 2007 - 2010
+
 **Bachelor of Science - Bsc., Communication & Multimedia Design** - *Zuyd University of Applied Sciences*  
 
 

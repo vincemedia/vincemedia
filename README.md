@@ -24,9 +24,8 @@ Feel free to [contact me](https://vince.media)
 
 2024
 
-**IBM**
-**Full Stack Javascript Developer** - [*Coursera*](https://coursera.org/share/)  
-**Cloud Application Development Foundations** - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
+**Full Stack Javascript Developer** - *IBM* - [*Coursera*](https://coursera.org/share/)  
+**Cloud Application Development Foundations** - *IBM* - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
 
 2011 - 2013
 

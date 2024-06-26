@@ -22,9 +22,11 @@ Feel free to [contact me](https://vince.media)
 
 ## 🎓 Education
 
-**IBM Full Stack Javascript Developer** - [*Coursera*](https://coursera.org/share/)  
+**IBM**
+**Full Stack Javascript Developer** - [*Coursera*](https://coursera.org/share/)  
+**Cloud Application Development Foundations** - [*Coursera*]
 
-**IBM Cloud Application Development Foundations** - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
+(https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
 2024
 
 

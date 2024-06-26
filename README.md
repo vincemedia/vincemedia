@@ -23,6 +23,7 @@ Feel free to [contact me](https://vince.media)
 ## 🎓 Education
 
 2024
+
 **IBM**
 **Full Stack Javascript Developer** - [*Coursera*](https://coursera.org/share/)  
 **Cloud Application Development Foundations** - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  

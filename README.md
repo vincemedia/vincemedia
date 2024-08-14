@@ -23,7 +23,7 @@ Feel free to [contact me](https://vince.media)
 ## 🎓 Education
 
 2024
-
+**[Modern Modern HTML & CSS From The Beginning 2.0](https://www.traversymedia.com/modern-html-css-from-the-beginning) ** - [*Traversy Media*]([https://coursera.org/share/](https://app.kajabi.com/certificates/0ebb91c9))  
 **Full Stack Javascript Developer** - *IBM* - [*Coursera*](https://coursera.org/share/)  
 **Cloud Application Development Foundations** - *IBM* - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hello, my name is Vincent 👋 </h1> 
+<h1 align="center">Hello, I'm Vincent 👋 </h1> 
 
 <p align="center">
   <a href="https://vince.media/">
@@ -22,31 +22,43 @@ Feel free to [contact me](https://vince.media)
 
 ## 🎓 Education
 
-2024
+```2024```
 
-[**Modern Modern HTML & CSS From The Beginning 2.0**](https://www.traversymedia.com/modern-html-css-from-the-beginning) - [*Traversy Media*](https://app.kajabi.com/certificates/0ebb91c9)  
-**Full Stack Javascript Developer** - *IBM* - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/Q5W8CND4AFEJ)
-**Cloud Application Development Foundations** - *IBM* - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
+Currently learning
+- [ ] [**Tailwind CSS From Scratch**]([https://www.traversymedia.com/modern-html-css-from-the-beginning](https://www.traversymedia.com/tailwind-css-course)) - *Traversy Media*
 
-2011 - 2013
+- [x] [**Modern Modern HTML & CSS From The Beginning 2.0**](https://www.traversymedia.com/modern-html-css-from-the-beginning) - [*Traversy Media*](https://app.kajabi.com/certificates/0ebb91c9)  
+
+- [x] **Full Stack Javascript Developer** - *IBM* - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/Q5W8CND4AFEJ)
+
+- [x] **Cloud Application Development Foundations** - *IBM* - [*Coursera*](https://www.coursera.org/account/accomplishments/specialization/2VRH378HSFJF)  
+
+
+```2011/2013```
 
 **Master of Science - Msc., Interaction Design** - *Malmö University*  
 
-2010 - 2011
+
+```2010/2011```
 
 **Master of Science - MA., Communication & Multimedia Design** - *LUCA School of Arts*  
 
-2007 - 2010
+
+```2007/2010```
 
 **Bachelor of Science - Bsc., Communication & Multimedia Design** - *Zuyd University of Applied Sciences*  
 
 
 ## 💡 Skills
 
-**Languages**: Figma, Adobe Creative Suite, HTML, CSS, JavaScript
+```Languages```
+Figma, Adobe Creative Suite, HTML, CSS, JavaScript
 
-**Frameworks/Libraries**: Express.js, React, React Router, TailwindCSS
+```Frameworks/Libraries```
+Express.js, React, React Router, TailwindCSS
 
-**Tools**: Node.js, git, GitHub, VSCode, Postman
+```Tools```
+ Node.js, git, GitHub, VSCode, Postman
 
-**Database**: MySQL, MongoDB
+```Database```
+MySQL, MongoDB

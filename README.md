@@ -52,13 +52,16 @@ Currently learning
 ## 💡 Skills
 
 ```Languages```
-HTML, CSS, JavaScript
+HTML5, CSS3, JS, Markdown
 
 ```Frameworks/Libraries```
-Tailwind, Express.js, React, React Router
+Tailwind, React, React Router, Next.js, Shadcn/ui
 
 ```Tools```
- Figma, Adobe Creative Suite, Node.js, git, GitHub, VSCode, Vite, Postman
+Figma, Node, git, GitHub, VSCode, Vite, Postman, Obsidian, Photoshop/Illustrator/Premiere/After Effects
+
+```Platforms```
+Vercel, Netlify, Hostinger
 
 ```Database```
-MySQL, MongoDB, Vercel, Netlify
+MySQL, MongoDB

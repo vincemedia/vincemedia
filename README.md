@@ -47,9 +47,9 @@ Feel free to <a href="https://vince.media">contact me</a>
 
 >2024
 
-- [ ] [**NextJS From Scratch 2024**]([https://www.traversymedia.com/nextjs-from-scratch)) - *Traversy Media*
+- [ ] [**NextJS From Scratch 2024**](https://www.traversymedia.com/nextjs-from-scratch) - *Traversy Media*
 
-- [x] [**Tailwind CSS From Scratch**]([https://www.traversymedia.com/modern-html-css-from-the-beginning](https://www.traversymedia.com/tailwind-css-course)) - *Traversy Media*
+- [x] [**Tailwind CSS From Scratch**](https://www.traversymedia.com/tailwind-css-course) - *Traversy Media*
 
 - [x] [**Modern Modern HTML & CSS From The Beginning 2.0**](https://www.traversymedia.com/modern-html-css-from-the-beginning) - [*Traversy Media*](https://app.kajabi.com/certificates/0ebb91c9)  
 

@@ -1,5 +1,3 @@
-<h1 align="center">Hello, I'm Vincent 👋 </h1> 
-
 <p align="center">
   <a href="https://vince.media/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Website URL">
@@ -17,19 +15,25 @@
     <img src="https://komarev.com/ghpvc/?username=vincemedia&style=for-the-badge" alt="Github Views" />
   </a>
 </p>
+<br/>
+
+<h1 align="center">Hello, I'm Vincent 👋 </h1> 
 
 <p align="center">
-I like to make complicated stuff easy to understand through design as a UX designer with a passion for software and web development.
+I'm a product designer and front end developer.
+<br/>I like to make complicated stuff easy to understand and use.	
+	<br/>
 <br/>For more than 15 years I've been obsessed with solving real user problems through design.
-<br/>By stripping away the unnecessary and drawing out the essential, I bring ideas from concept to pixel perfect implementation. 
+<br/>By stripping away the unnecessary and drawing out the essential,
+	I bring ideas from concept to pixel perfect implementation. 
 <br/><br/>
-Working in a diverse set of teams in the Netherlands, Norway, Sweden, Denmark and Spain has allowed me to create compelling products and processes that empower customers to achieve more.
+Working in a diverse set of teams in the Netherlands, Norway, Sweden, Denmark and Spain has allowed me to help large and small companies empower their customers to achieve more.
 <br/><br/>
-Send me a message if you think we'd vibe and could help each other build awesome products. 
+<a href="https://vince.media">Send me a message</a> if you think we'd vibe and could help each other build awesome products. 
 <br/><br/>
-Feel free to <a href="https://vince.media">contact me</a>
 </p>
-<br/>
+
+
 
 <h2  align="center">🖱️ Tools</h2>
 <br/>

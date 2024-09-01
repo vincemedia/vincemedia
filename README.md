@@ -20,6 +20,11 @@ Send me a message if you think we'd vibe and could help each other build awesome
 
 Feel free to [contact me](https://vince.media)
 
+
+## ⌨️🖱️ Languages & tools
+<img
+	src="https://skillicons.dev/icons?i=html,css,figma,ps,ai,xd,js,ts,nodejs,react,tailwind,nextjs,webpack,firebase,postman&theme=light" />
+
 ## 🎓 Education
 
 ```2024```

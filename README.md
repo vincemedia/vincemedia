@@ -21,7 +21,7 @@
 
 <p align="center">
 I'm a product designer and front end developer.
-<br/>I like to make complicated stuff easy to understand and use.	
+<br/>I like to make complicated stuff easy to use and understand.	
 	<br/>
 <br/>For more than 15 years I've been obsessed with solving real user problems through design.
 <br/>By stripping away the unnecessary and drawing out the essential,

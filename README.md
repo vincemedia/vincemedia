@@ -11,9 +11,6 @@
   <a href="https://wakatime.com/@vincemedia" target="_blank">
 	  <img src="https://wakatime.com/badge/user/4ef4bfc4-eb87-4842-b43d-ff1d8cc57e73.svg?style=for-the-badge" alt="vincemedia" />
   </a>
-  <a href="https://www.coursera.org/learner/vincemedia">
-    <img src="https://komarev.com/ghpvc/?username=vincemedia&style=for-the-badge" alt="Github Views" />
-  </a>
 </p>
 <br/>
 
@@ -96,5 +93,3 @@ Vercel, Netlify, Hostinger
 
 ```Database```
 MySQL, MongoDB
-
-![](https://hit.yhype.me/github/profile?user_id=19822703)

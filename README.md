@@ -8,9 +8,6 @@
   <a href="https://www.coursera.org/learner/vincemedia">
     <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera Profile URL" />
   </a>
-  <a href="https://wakatime.com/@vincemedia" target="_blank">
-	  <img src="https://wakatime.com/badge/user/4ef4bfc4-eb87-4842-b43d-ff1d8cc57e73.svg?style=for-the-badge" alt="vincemedia" />
-  </a>
 </p>
 <br/>
 
